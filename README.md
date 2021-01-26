@@ -3,9 +3,10 @@ Why thank you! You are too kind! Thanks for visiting my profile!-->
 
 **💬 Who am I?**
 
-I am a former customer support specialist in the SaaS industry, now looking to enter the industry as a full-stack web developer. Yes, front-end and back-end both!
+I'm an engineering physicist by training and degree - a generalist problem solver with expertise in all types of math and science.
+That power helps me in my new calling: web development. I build engaging online experiences for the vast communities of the internet.
 
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=oikantik&show_icons=true&hide_border=true&count_private=true)
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=JTarlin&show_icons=true&hide_border=true&count_private=true)
 
 **🤔 Why now?**
 
