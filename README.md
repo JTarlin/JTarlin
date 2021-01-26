@@ -16,7 +16,8 @@ If you're interested in following up with some of my projects, check out my webs
 
 I'm a big fan of clean, beautiful code. Currently I've been enjoying React.js, Node, and JavaScript. I want even cleaner, more beautful code though, so I've been looking into learning Svelte and TypeScript. Here are some of the stacks that I work with/have worked with:
 
-![Stacks](https://dl.dropboxusercontent.com/s/mu5hm5bkkh3qnk1/Logos.png)
+![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
+![React](https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg)
 
 **😄 Things that I have made so far**
 
